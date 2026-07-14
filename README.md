@@ -156,7 +156,7 @@ The complete workflow consists of the following stages:
 4. Tokenization
 5. Stopword Removal
 6. Indonesian Stemming (Sastrawi)
-7. TF-IDF Vectorization with n-Gram Features
+7. TF-IDF Vectorization with n-gram Features
 8. SMOTE Resampling
 9. Hyperparameter Optimization (GridSearchCV)
 10. Multinomial Naive Bayes Training
