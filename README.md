@@ -55,8 +55,8 @@ NB_AnalisiSentimen/
 ## Installation
 
 ```bash
-git clone https://github.com/erlangga-g/NB_AnalisiSentimen.git
-cd NB_AnalisiSentimen
+git clone https://github.com/erlangga-g/ordinal-rating-classification-naive-bayes.git
+cd ordinal-rating-classification-naive-bayes
 ```
 
 Create an isolated Python environment.
