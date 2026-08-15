@@ -20,7 +20,7 @@ ENV/
 Thumbs.db
 
 # Data (PENTING: Jangan push dataset besar ke GitHub)
-data/
-*.csv
+!data/raw/
+!data/raw/*.csv
 *.xlsx
 *.json
