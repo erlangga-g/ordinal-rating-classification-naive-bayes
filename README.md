@@ -31,7 +31,6 @@ NB_AnalisiSentimen/
 ├── app.py
 ├── data/
 │   ├── raw/
-│   └── processed/
 ├── images/
 ├── models/
 ├── notebooks/
@@ -44,7 +43,7 @@ NB_AnalisiSentimen/
 | Directory | Description |
 |-----------|-------------|
 | `app.py` | Streamlit application |
-| `data/` | Dataset and preprocessing outputs |
+| `data/` | Dataset |
 | `images/` | README figures |
 | `models/` | Trained model |
 | `resources/` | Hybrid slang dictionary |
